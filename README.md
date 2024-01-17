@@ -34,7 +34,8 @@ ResNet-50 uses a bottleneck design for the building block. A bottleneck residual
 ResNet-50 is a powerful image classification model that can be trained on large datasets and achieve state-of-the-art results. One of its key innovations is the use of residual connections, which help to mitigate the vanishing gradient problem. Transfer learning with ResNet-50 is a popular technique in deep learning, where the pre-trained model is used as a starting point for a new task. This can help to reduce the amount of data required to train a new model and improve its accuracy ¹.
 
 
-Source: Conversation with Bing, 17/01/2024
-(1) ResNet-50: The Basics and a Quick Tutorial - Datagen. https://datagen.tech/guides/computer-vision/resnet-50/.
-(2) Understanding ResNet50 architecture - OpenGenus IQ. https://iq.opengenus.org/resnet50-architecture/.
-(3) Exploring ResNet50: An In-Depth Look at the Model Architecture ... - Medium. https://medium.com/@nitishkundu1993/exploring-resnet50-an-in-depth-look-at-the-model-architecture-and-code-implementation-d8d8fa67e46f.
+Source: 
+- Conversation with Bing, 17/01/2024
+- ResNet-50: The Basics and a Quick Tutorial - Datagen. https://datagen.tech/guides/computer-vision/resnet-50/.
+- Understanding ResNet50 architecture - OpenGenus IQ. https://iq.opengenus.org/resnet50-architecture/.
+- Exploring ResNet50: An In-Depth Look at the Model Architecture ... - Medium. https://medium.com/@nitishkundu1993/exploring-resnet50-an-in-depth-look-at-the-model-architecture-and-code-implementation-d8d8fa67e46f.
